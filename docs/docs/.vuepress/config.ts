@@ -46,8 +46,8 @@ export default defineUserConfig({
     base: '/v3/',
     theme: defaultTheme({
         logo: "/isar.svg",
-        repo: "isar/isar",
-        docsRepo: "isar/isar",
+        repo: "isar-community/isar",
+        docsRepo: "isar-community/isar",
         docsDir: "docs/docs",
         contributors: true,
         locales: themeLocales,
@@ -65,11 +65,11 @@ export default defineUserConfig({
                 link: "https://t.me/isardb",
             },
             {
-                text: "3.x",
+                text: "vx.x",
                 children: [
                     {
                         text: "v4.x",
-                        link: "https://isar-community.dev/",
+                        link: "https://isar-community.dev",
                     },
                     {
                         text: "v3.x",
@@ -133,7 +133,7 @@ export default defineUserConfig({
             "script",
             {
                 async: "",
-                src: "https://www.googletagmanager.com/gtag/js?id=G-NX9QJRWFGX",
+                src: "https://www.googletagmanager.com/gtag/js?id=G-36LNDL9RHB",
             },
         ],
         [
@@ -142,7 +142,7 @@ export default defineUserConfig({
             `window.dataLayer = window.dataLayer || [];
                 function gtag(){dataLayer.push(arguments);}
                 gtag('js', new Date());
-                gtag('config', 'G-NX9QJRWFGX');`,
+                gtag('config', 'G-36LNDL9RHB');`,
         ],
         [
             "script",
@@ -151,7 +151,7 @@ export default defineUserConfig({
             c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
             t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
             y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-          })(window, document, "clarity", "script", "ciawnmxjdh");`,
+          })(window, document, "clarity", "script", "lkyzg3xacc");`,
         ],
     ],
 })
