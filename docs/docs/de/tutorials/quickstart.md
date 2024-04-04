@@ -13,8 +13,8 @@ Dieser Schnellstart wird wenig um den heißen Brei herumreden und direkt mit dem
 Bevor es losgeht, müssen wir ein paar Pakete zur `pubspec.yaml` hinzufügen. Damit es schneller geht lassen wir pub das für uns erledigen.
 
 ```bash
-dart pub add isar:^3.1.4 isar_flutter_libs:^3.1.4 --hosted-url=https://isar-community.dev
-dart pub add dev:isar_generator:^3.1.4 --hosted-url=https://isar-community.dev
+dart pub add isar:^3.1.5 isar_flutter_libs:^3.1.5 --hosted-url=https://pub.isar-community.dev
+dart pub add dev:isar_generator:^3.1.5 --hosted-url=https://pub.isar-community.dev
 ```
 
 ## 2. Klassen annotieren
