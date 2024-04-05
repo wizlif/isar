@@ -1,3 +1,9 @@
+## 3.1.6
+
+### Breaking
+
+Sorry, but we had to shift package hosting to https://pub.isar-community.dev
+
 ## 3.1.4
 
 - Fix inspector URL
