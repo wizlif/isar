@@ -1,3 +1,9 @@
+## 3.1.7
+
+### Fixes
+
+Add apple privacy manifest
+
 ## 3.1.6
 
 ### Breaking
