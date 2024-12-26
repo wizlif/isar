@@ -18,7 +18,7 @@ dependencies:
     version: 3.1.8
     hosted: https://pub.isar-community.dev
   path: ^1.8.1
-  source_gen: ^1.2.2
+  source_gen: ^2.0.0
   xxh3: ^1.0.1
 
 dev_dependencies:
